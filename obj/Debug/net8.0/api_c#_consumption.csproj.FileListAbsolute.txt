@@ -1,0 +1,17 @@
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\api_c#_consumption.exe
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\api_c#_consumption.deps.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\api_c#_consumption.runtimeconfig.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\api_c#_consumption.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\api_c#_consumption.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.AssemblyInfoInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.AssemblyInfo.cs
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.csproj.CoreCompileInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\refint\api_c#_consumption.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.genruntimeconfig.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\ref\api_c#_consumption.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.csproj.AssemblyReference.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\api_c#_consumption\obj\Debug\net8.0\api_c#_consumption.csproj.CopyComplete
